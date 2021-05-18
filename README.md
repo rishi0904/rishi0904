@@ -4,7 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rishikesh-pathak/)
 [![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/rishikesh0904)
-[![Mail](https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail)](mailto:rishikehpathak@karunya.edu.in)
+[![Mail](https://img.shields.io/badge/Gmail-black.svg?style=for-the-badge&logo=gmail)](mailto:rishikeshpathak0904@gmail.com)
 - 🎓 &nbsp; Studying Computer Science and Engineering.
 
 <div>
